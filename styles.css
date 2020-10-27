@@ -1,0 +1,12 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+.normal {
+  background: url(nd.jpg) center center no-repeat;
+}
+
+.shiny {
+  background: url(sd.jpg) center center no-repeat;
+}
